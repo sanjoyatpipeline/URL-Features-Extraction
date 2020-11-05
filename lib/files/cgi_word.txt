@@ -1,0 +1,1 @@
+php,config,html,sql,bin,cgi

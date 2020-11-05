@@ -1,0 +1,1 @@
+sports,cricket,football,ucl,champion.hockey,golf,olympic,player,team,espn,cricbuzz,BleacherReport,CBSSports,NBCSports,SBNation,FoxSports,RantSports,YardBarker,FanSided,Scout,ThePostGame,DeadSpin,champ,field,ampire,goal,score,scores,run,wicket,badminton

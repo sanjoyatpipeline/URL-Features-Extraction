@@ -1,0 +1,1 @@
+jpg,png,gif,psd,ai,indo,raw,jpeg,tiff,eps,pdf,file,image,download,adobe
